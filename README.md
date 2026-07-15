@@ -1,4 +1,4 @@
-# Serverless Apache Spark to BigQuery Data Pipeline
+# <div align="center"><img src="https://github.com/barbaria888/ServerlessApacheSparkOps-BQ/blob/main/images/Dataproc.png" height="70">Serverless Apache Spark to BigQuery Data Pipeline</div>
 
 ## Executive Summary
 This repository contains the architecture, configuration, and implementation steps to execute an ephemeral data loading pipeline on Google Cloud. It uses Dataproc Serverless <!-- TODO: add official doc link --> to run an Apache Spark batch job that processes an Avro format campaign log stored in Cloud Storage <!-- TODO: add official doc link --> and loads it directly into BigQuery <!-- TODO: add official doc link -->.
